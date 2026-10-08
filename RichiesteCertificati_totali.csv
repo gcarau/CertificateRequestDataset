@@ -1,0 +1,143 @@
+Certificato,Ente,Sito,Descrizione
+Certificato Anagrafico di Nascita,Comune,https://www.anagrafe.it/,"Nel certificato di nascita  vengono riportate informazioni riguardanti i dati di nascita di una persona, registrate presso l’Ufficio di Stato Civile dell’anagrafe comunale.
+
+"
+Certificato di Stato Civile,Comune,https://www.anagrafe.it/,"
+Sono certificati che attestano nascita, cittadinanza, matrimonio, unione civile, morte. "
+Certificato di Residenza,Comune,https://www.anagrafe.it/,"Nel certificato di residenza vengono riportate le informazioni riferite all'indirizzo dove risiede una persona, registrate all'ufficio anagrafe del Comune di competenza. Riporta anche la data di residenza ed i dati anagrafici del soggetto
+"
+Certificato di Residenza Storica,Comune,https://www.anagrafe.it/,"Il certificato di residenza storico documenta i cambiamenti di abitazione familiare in un determinato comune e sono disponibili per tutti i comuni italiani. 
+"
+Certificato di Famiglia,Comune,https://www.anagrafe.it/,Il Certificato Stato di Famiglia attesta la composizione della famiglia anagrafica di una persona.  In questo documento vengono elencati i componenti del nucleo familiare risultanti allo stesso indirizzo e residenti nella medesima unità abitativa. Viene rilasciato dal comune presso il quale il soggetto risulta anagraficamente residente.
+Certificato di Cittadinanza,Comune,https://www.anagrafe.it/,"Il certificato di cittadinanza attesta il possesso della nazionalità italiana di un soggetto e viene rilasciato esclusivamente ai cittadini residenti in Italia. Sul certificato vengono riportati i dati anagrafici (nome, cognome, data e luogo di nascita) e la specificazione della cittadinanza."
+Certificato di Matrimonio,Comune,https://www.anagrafe.it/,"Il certificato di matrimonio contiene i dati essenziali legati all´evento, cioè generalità degli sposi, luogo e data del matrimonio."
+Estratto di Matrimonio,Comune,https://www.anagrafe.it/,"L’estratto di matrimonio certifica il luogo dove è avvenuto, la data, oltre a riportare eventuali ulteriori annotazioni (regime patrimoniale dei coniugi, divorzio, annullamento)."
+Certificato di Convivenza,Comune,https://www.anagrafe.it/,
+Autocertificazione di Domicilio,Comune,https://www.anagrafe.it/,
+Certificato di Stato di Famiglia Semplice,Comune,https://www.anagrafe.it/,
+Certificato di Stato di Famiglia Storico,Comune,https://www.anagrafe.it/,
+Certificato di Non Titolarità di Altri Certificati,Comune,https://www.anagrafe.it/,"Il certificato di non titolarità di altri certificati è un documento necessario per una serie di scopi, tra cui la richiesta di un'autorizzazione di lavoro, la richiesta di un permesso di soggiorno e la richiesta di un visto."
+Certificato di Atto Notorio,Ufficio del Giudice di Pace,https://gdp.giustizia.it/index.php,
+Certificato di Nulla Osta al Matrimonio,Comune,https://www.anagrafe.it/,l certificato di nulla osta al matrimonio è un documento necessario per la celebrazione del matrimonio in Italia.
+Estratto di Morte,Comune,https://www.anagrafe.it/,
+Certificato di Morte,Comune,https://www.anagrafe.it/,
+Certificato di Cessazione della Convivenza,Comune,https://www.anagrafe.it/,
+Certificato di Stato Civile per Matrimonio all'Estero,Comune,https://www.anagrafe.it/,
+Certificato di Stato Civile per Adozione,Comune,https://www.anagrafe.it/,
+Certificato di Stato Libero,Comune,https://www.anagrafe.it/,
+Certificato Contestuale,Comune,https://www.anagrafe.it/,"Il certificato contestuale è un documento cumulativo che riporta informazioni anagrafiche e lo stato civile di una persona.
+Aggrega stato di famiglia, civile, residenza, cittadinanza ed esistenza in vita."
+Certificato di Esistenza in Vita,Comune,https://www.anagrafe.it/,"Il certificato di esistenza in vita è un documento prodotto dall'Ufficio di Stato Civile dei Comuni, con il quale viene certificato che il soggetto intestatario del documento è esistente ed in vita, al momento del rilascio della certificazione. Il certificato è richiedibile su tutto il territorio nazionale anche in modalità express, per un evasione più rapida."
+Certificato di Godimento dei Diritti Politici,Comune,https://www.anagrafe.it/,"Attraverso il certificato di godimento dei diritti politici si attesta che il cittadino richiedente gode del diritto di voto e che risulta iscritto nelle liste elettorali presso il Comune di residenza.
+Il diritto di voto viene attribuito ai cittadini di maggiore età che non siano stati sottoposti a misure di sicurezza detentive, a misure di prevenzione o a libertà vigilata e che non siano stati dichiarati falliti."
+Certificato di Battesimo,Chiesa,N/A,Il certificato di Battesimo riporta le informazioni relative al rito del Battesimo trascritte nei registri religiosi.
+Certificato di Cresima,Chiesa,,Il certificato di Cresima riporta le informazioni relative al rito della Cresima trascritte nei registri religiosi.
+Certificati Residenza Aire,Comune,https://www.anagrafe.it/,"I certificati Aire sono documenti riportanti residenza, stato di famiglia e cittadinanza dei soggetti iscritti all'Aire, l'anagrafe della popolazione italiana residente all'estero. Vengono rilasciati dal Comune presso il quale il soggetto risultava essere residente prima di emigrare."
+Certificato di Cittadinanza Aire,Comune,https://www.anagrafe.it/,"I certificati Aire sono documenti riportanti residenza, stato di famiglia e cittadinanza dei soggetti iscritti all'Aire, l'anagrafe della popolazione italiana residente all'estero. Vengono rilasciati dal Comune presso il quale il soggetto risultava essere residente prima di emigrare."
+Certificato Stato di famiglia Aire,Comune,https://www.anagrafe.it/,"I certificati Aire sono documenti riportanti residenza, stato di famiglia e cittadinanza dei soggetti iscritti all'Aire, l'anagrafe della popolazione italiana residente all'estero. Vengono rilasciati dal Comune presso il quale il soggetto risultava essere residente prima di emigrare."
+Certificato di Stato Civile per Trascrizione di Matrimonio Estero,Comune,https://www.anagrafe.it/,
+Certificato di Stato Civile per Matrimonio Celebrato all'Estero da Cittadini Italiani,Comune,https://www.anagrafe.it/,
+Certificato dei Carichi Pendenti,Procura della Repubblica,https://www.procura.milano.giustizia.it/,
+Certificato Generale del Casellario Giudiziale,Procura della Repubblica,https://www.procura.milano.giustizia.it/,
+Certificato di Procedura Fallimentare,Procura della Repubblica,https://www.procura.milano.giustizia.it/,
+Certificato di Non Iscrizione Anagrafica,Comune,https://www.anagrafe.it/,
+Certificato di Non Titolarità di Assegno Sociale,INPS,https://www.inps.it/,
+Certificato di Avvenuta Presentazione di Richiesta di Agevolazioni per Invalidità Civile,INPS,https://www.inps.it/,
+Certificato di Avvenuta Presentazione di Richiesta di Agevolazioni per Invalidità Ciechi Civili,INPS,https://www.inps.it/,
+Certificato di Non Percepimento di Assegno Sociale,INPS,https://www.inps.it/,
+Certificato di Avvenuta Presentazione di Richiesta di Agevolazioni per Invalidità Intellettive,INPS,https://www.inps.it/,
+Certificato di Non Percepimento di Pensioni di Guerra o Indennità,INPS,https://www.inps.it/,
+Certificato di Avvenuta Presentazione di Richiesta di Agevolazioni per Invalidità Sensoriali,INPS,https://www.inps.it/,
+Certificato di Iscrizione a Albo delle Professioni dell'Informazione,Ordine Nazionale dei Consulenti in Informatica (ONCI),N/A,
+Certificato di Non Percepimento di Pensioni di Superstiti,INPS,https://www.inps.it/,
+Certificato di Avvenuta Presentazione di Richiesta di Agevolazioni per Invalidità Motorie,INPS,https://www.inps.it/,
+Certificato di Iscrizione a Albo delle Professioni dei Servizi,Ordine Professionale Competente,N/A,
+Certificato di Non Percepimento di Altri Benefici per Invalidità,INPS,https://www.inps.it/,
+Certificato di Avvenuta Presentazione di Richiesta di Agevolazioni per Invalidità Uditive,INPS,https://www.inps.it/,
+Certificato di Iscrizione a Albo delle Professioni dell'Editoria,Ordine dei Giornalisti,N/A,
+Certificato di Non Percepimento di Pensioni di Invalidità Civile,INPS,https://www.inps.it/,
+Certificato di Avvenuta Presentazione di Richiesta di Agevolazioni per Invalidità Psichiche,INPS,https://www.inps.it/,
+Certificato di Iscrizione a Albo delle Professioni Artistiche,Ordine Professionale Competente,N/A,
+Certificato di Non Percepimento di Pensioni di Guerra o Indennità,INPS,https://www.inps.it/,
+Certificato di Avvenuta Presentazione di Richiesta di Agevolazioni per Invalidità Uditive,INPS,https://www.inps.it/,
+Certificato di Avvenuta Presentazione di Richiesta di Agevolazioni per Invalidità Intellettive,INPS,https://www.inps.it/,
+Certificato di Iscrizione a Albo delle Professioni Cinematografiche,Ordine Professionale Competente,N/A,
+Certificato di Non Percepimento di Indennità di Disoccupazione,INPS,https://www.inps.it/,
+Certificato di Iscrizione a Albo delle Professioni del Turismo,Ordine Professionale Competente,N/A,
+Certificato di Iscrizione a Albo delle Professioni dell'Informatica,Ordine Nazionale dei Consulenti in Informatica (ONCI),N/A,
+Certificato di Iscrizione a Albo delle Professioni del Commercio,Camera di Commercio,N/A,
+Certificato di Avvenuta Presentazione di Richiesta di Agevolazioni per Invalidità Fisiche,INPS,https://www.inps.it/,
+Certificato di Iscrizione a Albo delle Professioni Sanitarie,Ordine Professionale Competente,N/A,
+Certificato dell'Anagrafe delle Sanzioni Amministrative,Procura della Repubblica,https://www.procura.milano.giustizia.it/,
+Visura dell’Anagrafe delle Sanzioni Amministrative,Procura della Repubblica,https://www.procura.milano.giustizia.it/,
+Certificato Civile del Casellario Giudiziale,Procura della Repubblica,https://www.procura.milano.giustizia.it/,
+Certificato Penale del Casellario Giudiziale,Procura della Repubblica,https://www.procura.milano.giustizia.it/,
+Certificato Antipedofilia,Procura della Repubblica,https://www.procura.milano.giustizia.it/,
+Richiesta di certificato Partita Iva,Agenzia delle Entrate,https://www.agenziaentrate.gov.it/,
+Certificato Attribuzione Partita Iva,Agenzia delle Entrate,https://www.agenziaentrate.gov.it/,
+Certificato Residenza Fiscale,Agenzia delle Entrate,https://www.agenziaentrate.gov.it/,
+Certificato di Attribuzione Codice Fiscale,Agenzia delle Entrate,https://www.agenziaentrate.gov.it/,
+Certificazione del Reddito Percepito per Adozione Internazionale,Agenzia delle Entrate,https://www.agenziaentrate.gov.it/,
+Certificato Carichi Pendenti Agenzia delle Entrate,Agenzia delle Entrate,https://www.agenziaentrate.gov.it/,
+Richiesta Certificato della Situazione Reddituale,Agenzia delle Entrate,https://www.agenziaentrate.gov.it/,
+Passaporto,Questura,https://www.poliziadistato.it/,
+Carta d'identità,Comune,https://www.anagrafe.it/,
+Permesso di soggiorno,Questura,https://www.poliziadistato.it/,
+Patente di guida,Motorizzazione Civile,https://www.ilportaledellautomobilista.it/,
+Codice Fiscale,Agenzia delle Entrate,https://www.agenziaentrate.gov.it/,
+Autorizzazione al ricongiungimento familiare,Prefettura,https://www.poliziadistato.it/,
+Autorizzazione all'ingresso in Italia,Ambasciata Italiana,https://ambassunzione.esteri.it/ambasciata_assunzione/it/,
+Certificato di Idoneità all'Espatrio,Questura,https://www.poliziadistato.it/,
+Certificato di soggiorno,Comune,https://www.anagrafe.it/,
+Certificato di permesso di soggiorno,Questura,https://www.poliziadistato.it/,
+Certificato di apolidia,Questura,https://www.poliziadistato.it/,
+Certificato di riconoscimento,Comune,https://www.anagrafe.it/,
+Certificato di adozione,Tribunale per i Minorenni,https://www.giustizia.it/giustizia/,
+Certificato di idoneità al porto d'armi,Questura,https://www.poliziadistato.it/,
+Licenza Porto d'armi,Questura,https://www.poliziadistato.it/,
+Certificato di espatrio,Questura,https://www.poliziadistato.it/,
+Certificato di nulla osta all'espatrio,Questura,https://www.poliziadistato.it/,
+Certificato di proprietà del veicolo,Motorizzazione Civile,https://www.ilportaledellautomobilista.it/,attesta la proprietà di un veicolo. Il certificato di proprietà del veicolo può essere richiesto dal proprietario del veicolo o da un suo delegato.
+Certificato di circolazione del veicolo,Motorizzazione Civile,https://www.ilportaledellautomobilista.it/,attesta la regolarità del veicolo per circolare su strada. Il certificato di circolazione del veicolo può essere richiesto dal proprietario del veicolo o da un suo delegato
+Certificato di revisione del veicolo,Motorizzazione Civile,https://www.ilportaledellautomobilista.it/,attesta che il veicolo ha superato la revisione periodica. Il certificato di revisione del veicolo può essere richiesto dal proprietario del veicolo o da un suo delegato.
+Certificato di idoneità tecnica del veicolo,Motorizzazione Civile,https://www.ilportaledellautomobilista.it/,attesta che il veicolo è idoneo alla circolazione su strada. Il certificato di idoneità tecnica del veicolo può essere richiesto dal proprietario del veicolo o da un suo delegato.
+Certificato di immatricolazione del veicolo,Motorizzazione Civile,https://www.ilportaledellautomobilista.it/,attesta l'immatricolazione di un veicolo. Il certificato di immatricolazione del veicolo può essere richiesto dal proprietario del veicolo o da un suo delegat
+Certificato di esportazione del veicolo,Motorizzazione Civile,https://www.ilportaledellautomobilista.it/,attesta l'esportazione di un veicolo. Il certificato di esportazione del veicolo può essere richiesto dal proprietario del veicolo o da un suo delegato.
+Certificato di importazione del veicolo,Motorizzazione Civile,https://www.ilportaledellautomobilista.it/,attesta l'importazione di un veicolo. Il certificato di importazione del veicolo può essere richiesto dal proprietario del veicolo o da un suo delegato.
+Certificato di Successione,Agenzia delle Entrate,https://www.agenziaentrate.gov.it/,
+Certificato di divorzio,Procura della Repubblica,https://www.procura.milano.giustizia.it/,
+Certificato di sentenza,Procura della Repubblica,https://www.procura.milano.giustizia.it/,
+Certificato di attribuzione di rendita,INPS,https://www.inps.it/,
+Certificato di conformità catastale,Agenzia delle Entrate,https://www.agenziaentrate.it/,
+Certificato di destinazione urbanistica,Comune,https://www.anagrafe.it/,
+Certificato di estratto di mappa e planimetria,Agenzia delle Entrate,https://www.agenziaentrate.it/,
+Certificato di estratto di ruolo,Agenzia delle Entrate,https://www.agenziaentrate.it/,
+Certificato di rendita catastale,Agenzia delle Entrate,https://www.agenziaentrate.it/,
+Certificato di stato di immobile,Agenzia delle Entrate,https://www.agenziaentrate.it/,
+Certificato di visura catastale,Agenzia delle Entrate,https://www.agenziaentrate.it/,
+Attestazione di disoccupazione,INPS,https://www.inps.it/,
+Certificato di iscrizione alla Cassa integrazione guadagni,INPS,https://www.inps.it/,
+Certificato di iscrizione al Fondo di garanzia per le indennità di mobilità,INPS,https://www.inps.it/,
+Certificato di abbonamento,Agenzia Trasporto Pubblico,N/A,
+Certificato di viaggio,Agenzia Trasporto Pubblico,N/A,
+Certificato di rimborso,Agenzia Trasporto Pubblico,N/A,
+Certificato di Iscrizione a una Scuola,Istituto Scolastico,https://www.istituto.scolastico.it/certificati,
+Certificato di Frequenza Scolastica,Istituto Scolastico,https://www.istituto.scolastico.it/certificati,
+Certificato di diploma,Istituto Scolastico,https://www.istituto.scolastico.it/certificati,
+Certificato di qualifica,Istituto Scolastico,https://www.istituto.scolastico.it/certificati,
+Certificato di abilitazione all'insegnamento,Istituto Scolastico,https://www.istituto.scolastico.it/certificati,
+Certificato di frequenza,Istituto Scolastico,https://www.istituto.scolastico.it/certificati,
+Certificato di idoneità,Istituto Scolastico,https://www.istituto.scolastico.it/certificati,
+Certificato di valutazione,Istituto Scolastico,https://www.istituto.scolastico.it/certificati,
+Certificato di carriera scolastica,Istituto Scolastico,https://www.istituto.scolastico.it/certificati,
+Certificato di Esonero dalle Tasse,Istituto Scolastico,https://www.istituto.scolastico.it/certificati,
+Certificato di credito formativo,Istituto Scolastico,https://www.istituto.scolastico.it/certificati,
+Certificato di riconoscimento titoli,Istituto Scolastico,https://www.istituto.scolastico.it/certificati,
+Certificato di partecipazione a corsi,Istituto Scolastico,https://www.istituto.scolastico.it/certificati,
+Certificato di attività formative,Istituto Scolastico,https://www.istituto.scolastico.it/certificati,
+Certificato di competenze linguistiche,Istituto Scolastico,https://www.istituto.scolastico.it/certificati,
+Certificato di competenze digitali,Istituto Scolastico,https://www.istituto.scolastico.it/certificati,
+Certificato di Laurea,Istituto Scolastico,https://www.istituto.scolastico.it/certificati,
+Certificato di Dottorato,Istituto Scolastico,https://www.istituto.scolastico.it/certificati,
+Certificato di Diploma Scuola di Specializzazione,Istituto Scolastico,https://www.istituto.scolastico.it/certificati,
+Certificato Master,Istituto Scolastico,https://www.istituto.scolastico.it/certificati,
